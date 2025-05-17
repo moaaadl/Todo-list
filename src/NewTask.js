@@ -37,7 +37,7 @@ export default function NewTask({ Title }) {
             color: "green",
             transition: "0.2s",
             "&:hover": {
-              color: "#00e676", // لون أخضر فاتح
+              color: "#00e676",
               transform: "scale(1.2)",
             },
           }}
@@ -50,7 +50,7 @@ export default function NewTask({ Title }) {
             color: "#3D90D7",
             transition: "0.2s",
             "&:hover": {
-              color: "#1976d2", // أزرق أغمق
+              color: "#1976d2",
               transform: "scale(1.2)",
             },
           }}
@@ -63,7 +63,7 @@ export default function NewTask({ Title }) {
             color: "red",
             transition: "0.2s",
             "&:hover": {
-              color: "#ff1744", // أحمر ناري
+              color: "#ff1744",
               transform: "scale(1.2)",
             },
           }}
